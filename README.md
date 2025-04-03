@@ -1,4 +1,4 @@
-# ☕ Online Café Ordering System
+# ☕ Online Café Ordering And Delivery System
 
 ## 📝 Project Overview
 The **Online Café Ordering System** is a user-friendly Java GUI application designed for Haramaya university students to order food and beverages online. This project simplifies order placement, total price calculation, and payment processing.
